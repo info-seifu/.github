@@ -7,4 +7,3 @@ IT 教育と日本語教育の教材、校内システム、教育研究の記�
 
 - 学校公式サイト：https://www.i-seifu.jp/
 - 日本語科・キャリア進学科・グローバル IT 学科：https://i-seifu.com/
-- 授業用リンク集（html2026）：https://info-seifu.github.io/html2026/
